@@ -1,1 +1,4 @@
-console.log('actividad2');
+class ClaseA {
+    foo = 'foo';
+    bar = 'bar';
+}
